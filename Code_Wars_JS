@@ -21,6 +21,7 @@ countBy(2,5) === [2,4,6,8,10]
  }
 
  8kyu/ Find the smallest integer in the array
+
  Given an array of integers your solution should find the smallest integer.
 
  For example:
